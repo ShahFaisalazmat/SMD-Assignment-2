@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Rehersa Practice",
+    "slug": "rehersa-nav",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    
+    "ios": { "supportsTablet": true },
+    "android": {},
+    "web": {}
+  }
+}
